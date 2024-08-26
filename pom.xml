@@ -21,7 +21,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <org.mapstruct.version>1.2.0.Final</org.mapstruct.version>
-        <springfox.swagger>2.9.2</springfox.swagger>
+        <springfox.swagger>2.10.0</springfox.swagger>
         <org.apache.maven.plugins.version>3.6.0</org.apache.maven.plugins.version>
         <org.projectlombok.version>1.18.2</org.projectlombok.version>
     </properties>
